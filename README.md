@@ -12,3 +12,7 @@ For now will probably just do the exercises in the browser IDE, I assume at some
 
 29/113
 63/113
+
+<h3> 6/27/22 </h3>
+
+80/113
