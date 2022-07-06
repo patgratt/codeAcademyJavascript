@@ -16,3 +16,8 @@ For now will probably just do the exercises in the browser IDE, I assume at some
 <h3> 6/27/22 </h3>
 
 80/113
+
+
+<h3> 7/5/22 </h3>
+
+94/113
