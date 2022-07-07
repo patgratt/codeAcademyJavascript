@@ -21,3 +21,8 @@ For now will probably just do the exercises in the browser IDE, I assume at some
 <h3> 7/5/22 </h3>
 
 94/113
+
+<h3> 7/6/22 </h3>
+
+100/113
+last two days have all been done on my phone while in RCA orientation lol
