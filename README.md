@@ -10,8 +10,7 @@ For now will probably just do the exercises in the browser IDE, I assume at some
 
 <h3> 6/26/22 </h3>
 
-29/113
-63/113
+63/113 <br>
 
 <h3> 6/27/22 </h3>
 
@@ -24,5 +23,5 @@ For now will probably just do the exercises in the browser IDE, I assume at some
 
 <h3> 7/6/22 </h3>
 
-100/113
+100/113  <br>
 last two days have all been done on my phone while in RCA orientation lol
